@@ -1,0 +1,349 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Autocomplete Component Autocomplete matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiAutocomplete-root MuiAutocomplete-hasPopupIcon css-1hn3uja-MuiAutocomplete-root"
+  >
+    <div
+      style="height: 100%;"
+    >
+      <div
+        class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-15iyrnn-MuiFormControl-root-MuiTextField-root"
+      >
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-2051w1-MuiInputBase-root-MuiOutlinedInput-root"
+        >
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionStart MuiInputAdornment-outlined MuiInputAdornment-sizeMedium css-h7r9fj-MuiInputAdornment-root"
+          >
+            <span
+              class="notranslate"
+            >
+              ​
+            </span>
+            <span
+              aria-label="location"
+              role="img"
+            >
+              📍
+            </span>
+          </div>
+          <input
+            aria-autocomplete="list"
+            aria-expanded="false"
+            aria-invalid="false"
+            autocapitalize="none"
+            autocomplete="off"
+            class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused css-qve9l1-MuiInputBase-input-MuiOutlinedInput-input"
+            id=":r0:"
+            placeholder="Select a city"
+            role="combobox"
+            spellcheck="false"
+            type="text"
+            value=""
+          />
+          <div
+            class="MuiAutocomplete-endAdornment css-1uhhrmm-MuiAutocomplete-endAdornment"
+          >
+            <button
+              aria-label="Open"
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-popupIndicator css-1puztro-MuiButtonBase-root-MuiIconButton-root-MuiAutocomplete-popupIndicator"
+              tabindex="-1"
+              title="Open"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M7 10l5 5 5-5z"
+                />
+              </svg>
+            </button>
+          </div>
+          <fieldset
+            aria-hidden="true"
+            class="MuiOutlinedInput-notchedOutline css-1ll44ll-MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="css-w4cd9x"
+            >
+              <span
+                class="notranslate"
+              >
+                ​
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Autocomplete Component Autocomplete matches snapshot with different options 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiAutocomplete-root MuiAutocomplete-hasPopupIcon css-1hn3uja-MuiAutocomplete-root"
+  >
+    <div
+      style="height: 100%;"
+    >
+      <div
+        class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-15iyrnn-MuiFormControl-root-MuiTextField-root"
+      >
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-2051w1-MuiInputBase-root-MuiOutlinedInput-root"
+        >
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionStart MuiInputAdornment-outlined MuiInputAdornment-sizeMedium css-h7r9fj-MuiInputAdornment-root"
+          >
+            <span
+              class="notranslate"
+            >
+              ​
+            </span>
+            <span
+              aria-label="location"
+              role="img"
+            >
+              📍
+            </span>
+          </div>
+          <input
+            aria-autocomplete="list"
+            aria-expanded="false"
+            aria-invalid="false"
+            autocapitalize="none"
+            autocomplete="off"
+            class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused css-qve9l1-MuiInputBase-input-MuiOutlinedInput-input"
+            id=":r2:"
+            placeholder="Select a city"
+            role="combobox"
+            spellcheck="false"
+            type="text"
+            value=""
+          />
+          <div
+            class="MuiAutocomplete-endAdornment css-1uhhrmm-MuiAutocomplete-endAdornment"
+          >
+            <button
+              aria-label="Open"
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-popupIndicator css-1puztro-MuiButtonBase-root-MuiIconButton-root-MuiAutocomplete-popupIndicator"
+              tabindex="-1"
+              title="Open"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M7 10l5 5 5-5z"
+                />
+              </svg>
+            </button>
+          </div>
+          <fieldset
+            aria-hidden="true"
+            class="MuiOutlinedInput-notchedOutline css-1ll44ll-MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="css-w4cd9x"
+            >
+              <span
+                class="notranslate"
+              >
+                ​
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Autocomplete Component Autocomplete matches snapshot with different placeholder 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiAutocomplete-root MuiAutocomplete-hasPopupIcon css-1hn3uja-MuiAutocomplete-root"
+  >
+    <div
+      style="height: 100%;"
+    >
+      <div
+        class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-15iyrnn-MuiFormControl-root-MuiTextField-root"
+      >
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-2051w1-MuiInputBase-root-MuiOutlinedInput-root"
+        >
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionStart MuiInputAdornment-outlined MuiInputAdornment-sizeMedium css-h7r9fj-MuiInputAdornment-root"
+          >
+            <span
+              class="notranslate"
+            >
+              ​
+            </span>
+            <span
+              aria-label="location"
+              role="img"
+            >
+              📍
+            </span>
+          </div>
+          <input
+            aria-autocomplete="list"
+            aria-expanded="false"
+            aria-invalid="false"
+            autocapitalize="none"
+            autocomplete="off"
+            class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused css-qve9l1-MuiInputBase-input-MuiOutlinedInput-input"
+            id=":r6:"
+            placeholder="Choose a destination"
+            role="combobox"
+            spellcheck="false"
+            type="text"
+            value=""
+          />
+          <div
+            class="MuiAutocomplete-endAdornment css-1uhhrmm-MuiAutocomplete-endAdornment"
+          >
+            <button
+              aria-label="Open"
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-popupIndicator css-1puztro-MuiButtonBase-root-MuiIconButton-root-MuiAutocomplete-popupIndicator"
+              tabindex="-1"
+              title="Open"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M7 10l5 5 5-5z"
+                />
+              </svg>
+            </button>
+          </div>
+          <fieldset
+            aria-hidden="true"
+            class="MuiOutlinedInput-notchedOutline css-1ll44ll-MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="css-w4cd9x"
+            >
+              <span
+                class="notranslate"
+              >
+                ​
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Autocomplete Component Autocomplete matches snapshot with no options 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiAutocomplete-root MuiAutocomplete-hasPopupIcon css-1hn3uja-MuiAutocomplete-root"
+  >
+    <div
+      style="height: 100%;"
+    >
+      <div
+        class="MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root css-15iyrnn-MuiFormControl-root-MuiTextField-root"
+      >
+        <div
+          class="MuiInputBase-root MuiOutlinedInput-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-adornedStart MuiInputBase-adornedEnd MuiAutocomplete-inputRoot css-2051w1-MuiInputBase-root-MuiOutlinedInput-root"
+        >
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionStart MuiInputAdornment-outlined MuiInputAdornment-sizeMedium css-h7r9fj-MuiInputAdornment-root"
+          >
+            <span
+              class="notranslate"
+            >
+              ​
+            </span>
+            <span
+              aria-label="location"
+              role="img"
+            >
+              📍
+            </span>
+          </div>
+          <input
+            aria-autocomplete="list"
+            aria-expanded="false"
+            aria-invalid="false"
+            autocapitalize="none"
+            autocomplete="off"
+            class="MuiInputBase-input MuiOutlinedInput-input MuiInputBase-inputAdornedStart MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused css-qve9l1-MuiInputBase-input-MuiOutlinedInput-input"
+            id=":r4:"
+            placeholder="Select a city"
+            role="combobox"
+            spellcheck="false"
+            type="text"
+            value=""
+          />
+          <div
+            class="MuiAutocomplete-endAdornment css-1uhhrmm-MuiAutocomplete-endAdornment"
+          >
+            <button
+              aria-label="Open"
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium MuiAutocomplete-popupIndicator css-1puztro-MuiButtonBase-root-MuiIconButton-root-MuiAutocomplete-popupIndicator"
+              tabindex="-1"
+              title="Open"
+              type="button"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+                data-testid="ArrowDropDownIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M7 10l5 5 5-5z"
+                />
+              </svg>
+            </button>
+          </div>
+          <fieldset
+            aria-hidden="true"
+            class="MuiOutlinedInput-notchedOutline css-1ll44ll-MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="css-w4cd9x"
+            >
+              <span
+                class="notranslate"
+              >
+                ​
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CounterButton matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-k008qs"
+  >
+    <button
+      class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-169xw3a-MuiButtonBase-root-MuiIconButton-root"
+      tabindex="0"
+      type="button"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-oclf15-MuiSvgIcon-root"
+        data-testid="RemoveIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 13H5v-2h14z"
+        />
+      </svg>
+    </button>
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-5f19rt-MuiTypography-root"
+    >
+      2
+    </p>
+    <button
+      class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-169xw3a-MuiButtonBase-root-MuiIconButton-root"
+      tabindex="0"
+      type="button"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-oclf15-MuiSvgIcon-root"
+        data-testid="AddIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6z"
+        />
+      </svg>
+    </button>
+  </div>
+</DocumentFragment>
+`;

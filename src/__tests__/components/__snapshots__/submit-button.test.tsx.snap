@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SubmitButton Component SubmitButton matches snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1soygj4-MuiButtonBase-root-MuiIconButton-root"
+    tabindex="0"
+    type="button"
+  >
+    <svg
+      aria-hidden="true"
+      class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-qa6y54-MuiSvgIcon-root"
+      data-testid="submit-icon"
+      focusable="false"
+      viewBox="0 0 24 24"
+    >
+      <path
+        d="M10 6 8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"
+      />
+    </svg>
+  </button>
+</DocumentFragment>
+`;

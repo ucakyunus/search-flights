@@ -1,0 +1,72 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DetailItem matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-1uti5wp"
+  >
+    <div
+      class="MuiBox-root css-1n39bxb"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-tm0t1r-MuiTypography-root"
+      >
+        ecoFly
+      </p>
+      <div
+        class="MuiBox-root css-1i27l4i"
+      >
+        <div
+          class="MuiBox-root css-14nfxuw"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-1c4691f-MuiTypography-root"
+          >
+            TRY
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-h2wyop-MuiTypography-root"
+          >
+            100
+          </p>
+        </div>
+        <div
+          class="MuiBox-root css-1yp4ln"
+        >
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-1c4691f-MuiTypography-root"
+          >
+            TRY 
+          </p>
+          <p
+            class="MuiTypography-root MuiTypography-body1 css-h2wyop-MuiTypography-root"
+          >
+            50
+          </p>
+        </div>
+      </div>
+    </div>
+    <div
+      class="MuiBox-root css-1okwmtz"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-14a1ipj-MuiTypography-root"
+      >
+        Right 1
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-14a1ipj-MuiTypography-root"
+      >
+        Right 2
+      </p>
+    </div>
+    <button
+      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedError MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorError MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedError MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorError MuiButton-fullWidth css-cl10om-MuiButtonBase-root-MuiButton-root"
+      tabindex="0"
+      type="button"
+    >
+      Uçuşu Seç
+    </button>
+  </div>
+</DocumentFragment>
+`;

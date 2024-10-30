@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PromotionSwitch matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-1phy807"
+  >
+    <div
+      class="MuiBox-root css-70qvj9"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-9lbk8f-MuiTypography-root"
+        id="promotion-code"
+      >
+        Promosyon Kodu
+      </p>
+      <span
+        class="MuiSwitch-root MuiSwitch-sizeMedium css-rehya9-MuiSwitch-root"
+      >
+        <span
+          aria-labelledby="promotion-code"
+          class="MuiButtonBase-root MuiSwitch-switchBase MuiSwitch-colorPrimary Mui-checked PrivateSwitchBase-root MuiSwitch-switchBase MuiSwitch-colorPrimary Mui-checked Mui-checked css-161ms7l-MuiButtonBase-root-MuiSwitch-switchBase"
+        >
+          <input
+            checked=""
+            class="PrivateSwitchBase-input MuiSwitch-input css-j8yymo"
+            type="checkbox"
+          />
+          <span
+            class="MuiSwitch-thumb css-17jyosd-MuiSwitch-thumb"
+          />
+        </span>
+        <span
+          class="MuiSwitch-track css-tj8d99-MuiSwitch-track"
+        />
+      </span>
+    </div>
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-nyyr3x-MuiTypography-root"
+    >
+      Promosyon Kodu seçeneği ile tüm Economy kabini Eco Fly paketlerini %50 indirimle satin alabilirsiniz!
+    </p>
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-80huul-MuiTypography-root"
+    >
+      Promosyon Kodu seçeneği aktifken Eco Fly paketi haricinde seçim yapılamamaktadır.
+    </p>
+  </div>
+</DocumentFragment>
+`;

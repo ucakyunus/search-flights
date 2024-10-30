@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CabinAndPassenger matches snapshot 1`] = `
+<DocumentFragment>
+  <button
+    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1fzveus-MuiButtonBase-root-MuiIconButton-root"
+    tabindex="0"
+    type="button"
+  >
+    <div
+      style="display: flex;"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+        data-testid="ManIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M14 7h-4c-1.1 0-2 .9-2 2v6h2v7h4v-7h2V9c0-1.1-.9-2-2-2"
+        />
+        <circle
+          cx="12"
+          cy="4"
+          r="2"
+        />
+      </svg>
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-1umw9bq-MuiSvgIcon-root"
+        data-testid="ManIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M14 7h-4c-1.1 0-2 .9-2 2v6h2v7h4v-7h2V9c0-1.1-.9-2-2-2"
+        />
+        <circle
+          cx="12"
+          cy="4"
+          r="2"
+        />
+      </svg>
+    </div>
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-15xstjz-MuiTypography-root"
+    >
+      2
+    </p>
+  </button>
+</DocumentFragment>
+`;

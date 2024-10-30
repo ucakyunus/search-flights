@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-z8q3jg"
+  >
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-nsiw5t-MuiTypography-root"
+    >
+      turkishairlines.com
+    </p>
+    <span
+      class="MuiBox-root css-k008qs"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-jmii74-MuiTypography-root"
+      >
+        search
+      </p>
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-nsiw5t-MuiTypography-root"
+      >
+        Flight Challange
+      </p>
+    </span>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InfoDetail matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiBox-root css-0"
+  >
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-3kdse5-MuiTypography-root"
+    >
+      10:30 AM
+    </p>
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-fp2ujc-MuiTypography-root"
+    >
+      JFK
+    </p>
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-14s8yo4-MuiTypography-root"
+    >
+      New York
+    </p>
+  </div>
+</DocumentFragment>
+`;
